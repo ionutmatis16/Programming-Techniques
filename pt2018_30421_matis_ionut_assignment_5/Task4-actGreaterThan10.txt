@@ -1,0 +1,3 @@
+Leaving			 Duration: 27 hours.
+Sleeping		 Duration: 130 hours.
+Spare_Time/TV		 Duration: 141 hours.

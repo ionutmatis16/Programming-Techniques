@@ -1,0 +1,154 @@
+Day: 1
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 3
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 6
+	Activity: Toileting			Count: 2
+	Activity: Lunch		Count: 1
+
+Day: 2
+	Activity: Leaving			Count: 0
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 1
+	Activity: Grooming			Count: 4
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 7
+	Activity: Toileting			Count: 3
+	Activity: Lunch		Count: 1
+
+Day: 3
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 3
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 4
+	Activity: Toileting			Count: 2
+	Activity: Lunch		Count: 0
+
+Day: 4
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 2
+	Activity: Grooming			Count: 2
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 6
+	Activity: Toileting			Count: 4
+	Activity: Lunch		Count: 0
+
+Day: 5
+	Activity: Leaving			Count: 2
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 1
+	Activity: Grooming			Count: 6
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 7
+	Activity: Toileting			Count: 5
+	Activity: Lunch		Count: 1
+
+Day: 6
+	Activity: Leaving			Count: 0
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 1
+	Activity: Grooming			Count: 4
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 5
+	Activity: Toileting			Count: 3
+	Activity: Lunch		Count: 1
+
+Day: 7
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 2
+	Activity: Grooming			Count: 5
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 8
+	Activity: Toileting			Count: 6
+	Activity: Lunch		Count: 1
+
+Day: 8
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 5
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 4
+	Activity: Toileting			Count: 1
+	Activity: Lunch		Count: 0
+
+Day: 9
+	Activity: Leaving			Count: 2
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 5
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 6
+	Activity: Toileting			Count: 2
+	Activity: Lunch		Count: 0
+
+Day: 10
+	Activity: Leaving			Count: 2
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 4
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 3
+	Activity: Toileting			Count: 1
+	Activity: Lunch		Count: 0
+
+Day: 11
+	Activity: Leaving			Count: 0
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 0
+	Activity: Grooming			Count: 3
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 3
+	Activity: Toileting			Count: 2
+	Activity: Lunch		Count: 1
+
+Day: 28
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 1
+	Activity: Grooming			Count: 2
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 4
+	Activity: Toileting			Count: 3
+	Activity: Lunch		Count: 1
+
+Day: 29
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 1
+	Activity: Grooming			Count: 3
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 6
+	Activity: Toileting			Count: 4
+	Activity: Lunch		Count: 1
+
+Day: 30
+	Activity: Leaving			Count: 1
+	Activity: Breakfast			Count: 1
+	Activity: Sleeping		Count: 1
+	Activity: Snack			Count: 2
+	Activity: Grooming			Count: 2
+	Activity: Showering			Count: 1
+	Activity: Spare_Time/TV		Count: 8
+	Activity: Toileting			Count: 6
+	Activity: Lunch		Count: 1
+
