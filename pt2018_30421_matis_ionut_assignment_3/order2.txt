@@ -1,0 +1,5 @@
+Order id: 2
+Customer: Catalin
+Product: Prod 1
+Amount: 2
+Paid: 20

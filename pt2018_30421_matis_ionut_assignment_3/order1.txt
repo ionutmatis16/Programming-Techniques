@@ -1,0 +1,5 @@
+Order id: 1
+Customer: C3
+Product: Prod 1
+Amount: 100
+Paid: 1000
